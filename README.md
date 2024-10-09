@@ -20,14 +20,6 @@ This project implements a reinforcement learning model to simulate the walking m
 
 ---
 
-### [liberapay.com](https://github.com/cloud-leon/liberapay.com)
-Fork of the **Liberapay** source code, which powers the recurrent donation platform.
-
-- **Tech Stack**: Python, Web Development
-- **Key Features**: Contributions to a platform for donations and financial sustainability.
-
----
-
 ### [InsulinPump](https://github.com/cloud-leon/InsulinPump)
 A forked project focused on simulating an insulin pump system, with potential applications in healthcare and medical devices.
 
